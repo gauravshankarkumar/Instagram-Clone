@@ -1,1 +1,1 @@
-# Instagram-Clone by June batch 
+# Instagram-Clone App by June batch 

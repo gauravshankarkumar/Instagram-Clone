@@ -1,3 +1,1 @@
-# Instagram-Clone App by June batch 
-this is testing
-ya hoooo
+# Instagram-Clone App by Skill-Edge May/June batch 
